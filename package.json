@@ -2,10 +2,20 @@
   "name": "@botmock/dialogflow-fulfillment-builder",
   "version": "1.0.0",
   "description": "",
+  "contributors": [
+    "Owen Mills <owen@botmock.com>",
+    "Gauhar Shakeel <gauhar@botmock.com>",
+    "Obaid Ahmed <obaid@botmock.com>",
+    "Rahul Chauhan <rahul@botmock.com>"
+  ],
+  "homepage": "https://github.com/Botmock/dialogflow-fulfillment-builder",
+  "license": "MIT",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "publishConfig": {
+    "access": "public"
   },
-  "author": "",
-  "license": "ISC"
+  "scripts": {
+  }
 }
+
+
